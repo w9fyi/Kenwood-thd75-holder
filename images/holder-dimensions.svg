@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+<defs>
+  <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#fffdfa" />
+    <stop offset="100%" stop-color="#f3ede3" />
+  </linearGradient>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+    <path d="M0,0 L10,5 L0,10 z" fill="#6c635d" />
+  </marker>
+</defs>
+<rect width="100%" height="100%" fill="url(#paper)" />
+<text x="110" y="120" font-family="Helvetica, Arial, sans-serif" font-size="68" fill="#201a14">Holder Dimensions</text>
+<text x="110" y="175" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#5e5143">Based on the exported model and the generator constants in generate_holder.py</text>
+<rect x="130.00" y="285.00" width="509.76" height="887.49" rx="18" fill="#e6d7b3" stroke="#6f5d38" stroke-width="4" />
+<rect x="227.20" y="393.00" width="315.36" height="671.49" fill="none" stroke="#8f7b55" stroke-width="3" stroke-dasharray="12 10" />
+<line x1="92.00" y1="285.00" x2="92.00" y2="1172.49" stroke="#8d847d" stroke-width="2" />
+<line x1="677.76" y1="285.00" x2="677.76" y2="1172.49" stroke="#8d847d" stroke-width="2" />
+<line x1="130.00" y1="1220.49" x2="639.76" y2="1220.49" stroke="#8d847d" stroke-width="2" />
+<line x1="130.00" y1="237.00" x2="639.76" y2="237.00" stroke="#8d847d" stroke-width="2" />
+<line x1="130.0" y1="237.0" x2="639.76" y2="237.0" stroke="#6c635d" stroke-width="3" marker-start="url(#arrow)" marker-end="url(#arrow)" /><text x="384.88" y="221.0" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#433a34" text-anchor="middle">94.4 mm</text>
+<line x1="677.76" y1="285.0" x2="677.76" y2="1172.4900000000002" stroke="#6c635d" stroke-width="3" marker-start="url(#arrow)" marker-end="url(#arrow)" /><text x="695.76" y="738.7450000000001" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#433a34" text-anchor="middle" transform="rotate(-90 695.76 738.7450000000001)">164.4 mm</text>
+<text x="227.20" y="375.00" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#433a34">Pocket: 58.4 x 124.35 mm</text>
+<text x="130.00" y="1282.49" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#433a34">Radio body used: 56.0 x 121.95 x 32.5 mm</text>
+<text x="130.00" y="1322.49" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#433a34">Clearance: about 1.2 mm per side</text>
+<path d="M 970,386.0 L 970,350 L 979.0,350 L 979.0,359.0 L 993.568,359.0 L 993.568,350 L 1002.568,350 L 1002.568,386.0 Z" fill="#d9c191" stroke="#6f5d38" stroke-width="4" />
+<rect x="979.00" y="359.00" width="14.57" height="27.00" fill="#fffdfa" opacity="0.75" />
+<line x1="940.00" y1="350.00" x2="940.00" y2="386.00" stroke="#8d847d" stroke-width="2" />
+<line x1="970.00" y1="426.00" x2="1002.57" y2="426.00" stroke="#8d847d" stroke-width="2" />
+<line x1="970" y1="426.0" x2="1002.568" y2="426.0" stroke="#6c635d" stroke-width="3" marker-start="url(#arrow)" marker-end="url(#arrow)" /><text x="986.284" y="410.0" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#433a34" text-anchor="middle">profile view</text>
+<line x1="940" y1="350" x2="940" y2="386.0" stroke="#6c635d" stroke-width="3" marker-start="url(#arrow)" marker-end="url(#arrow)" /><text x="958" y="378.0" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#433a34" text-anchor="middle" transform="rotate(-90 958 378.0)">24.0 mm</text>
+<text x="970.00" y="320.00" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#201a14">Side Profile</text>
+<text x="970.00" y="496.00" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#433a34">Base thickness: 6.0 mm   Wall height above base: 18.0 mm</text>
+</svg>
