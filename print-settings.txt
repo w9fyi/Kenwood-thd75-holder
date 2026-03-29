@@ -1,0 +1,14 @@
+Recommended slicer settings
+
+Material: PLA
+Layer height: 0.20 mm
+Perimeters/walls: 3
+Top/bottom layers: 5
+Infill: 20% gyroid or grid
+Supports: Off
+Brim: Off unless your printer has bed-adhesion issues
+Print orientation: Flat on the bottom face
+
+Optional:
+- Add thin stick-on rubber pads under the four corners.
+- Add adhesive felt strips to the interior rails if you want a softer fit.
