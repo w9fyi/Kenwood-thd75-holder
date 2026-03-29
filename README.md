@@ -61,6 +61,21 @@ Print flat on the large bottom face.
 - Suggested material: PLA
 - Suggested layer height: 0.20 mm
 
+## Printing Tips
+
+- Start with PLA unless you already know you want a higher-temperature material.
+- If the first layer feels uneven or the corners want to lift, add a small brim.
+- Three walls and about 20 percent infill are a good balance between stiffness and print time.
+- If you want the holder to slide less on a desk, add thin rubber feet or adhesive felt to the underside after printing.
+
+## Fit Notes
+
+- The fit is based on the published TH-D75 body dimensions rather than a hand-measured sample.
+- About 1.2 mm of clearance was added around the radio body, so printers that run slightly large or small may change the fit a bit.
+- The design is intended to hold the radio on its back with the display facing up.
+- The right side is left mostly open so charging or data cables can stay connected while the radio is in the holder.
+- If you want a softer or slightly tighter fit, thin adhesive felt on the contact rails is an easy adjustment.
+
 ## License
 
 MIT
